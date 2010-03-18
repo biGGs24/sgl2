@@ -18,7 +18,7 @@
  * );
  *	
  * Depending on the adapter, there is support for parameters
- * and requirements, which are defined by regular expressions:
+ * and requirements defined by regular expressions:
  *
  * array(
  *	'uniqueRouteName' => array(
